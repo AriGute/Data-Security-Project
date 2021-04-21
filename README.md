@@ -6,7 +6,7 @@ The project is about a secured P2P messenger app, every message is encrypt end-t
 Each connected user get a token after authentication from the server.
 Message without token cant get to the targeted client and stop at the server.
 
-## Program Purpose
+## Project Purpose
 **The project must meet a number of conditions:**
 
 * Able to send and recive messages
