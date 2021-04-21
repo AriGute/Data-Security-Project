@@ -10,7 +10,7 @@ Message without token cant get to the targeted client and stop at the server.
 **The project must meet a number of conditions:**
 
 * Able to send and recive messages
-* Each message is encrypted from end-to-end
+* Each message is encrypted end-to-end
 * Authentication
 
 ## Getting Started
