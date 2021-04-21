@@ -11,7 +11,7 @@ Message without token cant get to the targeted client and stop at the server.
 
 * Able to send and recive messages
 * Each message is encrypted end-to-end
-* Authentication
+* User authentication
 
 ## Getting Started
 1) Run KDCgui.
