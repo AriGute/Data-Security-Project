@@ -2,19 +2,16 @@
  Secured messanger app for data security course.
 
 ## The app:
-
-
-## Controls:
-* Half left screen is a movement joystick
-* Half right screen is a hit button
+The project is about a secured P2P messenger app, every message is encrypt end-to-end using Diffie-Hellman for swapping keys.
+Each connected user get a token after authentication from the server.
+Message without token cant get to the targeted client and stop at the server.
 
 ## Program Purpose
 **The project must meet a number of conditions:**
 
-* Create a goal and progress for the user
-* User authentication
-* Working with databases
-* Working with Android Studio
+* Able to send and recive messages
+* Each message is encrypted from end-to-end
+* Authentication
 
 ## Getting Started
 1) Run KDCgui.
