@@ -1,7 +1,7 @@
 # Data-Security-Project
  Secured messanger app for data security course.
 
-## The app:
+## The Project:
 The project is about a secured P2P messenger app, every message is encrypt end-to-end using Diffie-Hellman for swapping keys.
 Each connected user get a token after authentication from the server.
 Message without token cant get to the targeted client and stop at the server.
