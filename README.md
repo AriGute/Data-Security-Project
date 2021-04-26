@@ -15,7 +15,7 @@ Message without token cant get to the targeted client and stop at the server.
 
 ## Getting Started
 1) Run KDCgui.
-2) Enter user name and password and click "Add new User" (need to add 2 users).
+2) Enter user name and password and click "Add new User" (need to add at least 2 users).
 3) In KDCgui click "Start Server".
 4) Run guiLayOut(one for each user).
 5) Enter username and password in each client and click "Connect".
