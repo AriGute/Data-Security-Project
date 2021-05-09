@@ -1,4 +1,0 @@
-lidor : 1234
-yoav : 1111
-ariel : 2222
-yarin : 3333
