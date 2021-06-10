@@ -4,7 +4,7 @@
 ## The Project:
 The project is about a secured P2P messenger app, every message is encrypt end-to-end using Diffie-Hellman for swapping keys.
 Each connected user get a token after authentication from the server.
-Message without token cant get to the targeted client and stop at the server.
+Message without a token cant get to its destination.
 
 ## Project Purpose
 **The project must meet a number of conditions:**
