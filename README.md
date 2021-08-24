@@ -6,7 +6,7 @@ The project is about a secured P2P messenger app, every message is encrypt end-t
 Each connected user get a token after authentication from the server.
 Message without a token cant get to its destination.
 
-Demonstration video: https://youtu.be/dNhx2mX61gk
+Demo [video](https://youtu.be/dNhx2mX61gk)
 
 ## Project Purpose
 **The project must meet a number of conditions:**
