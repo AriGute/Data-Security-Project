@@ -29,6 +29,3 @@ Demonstration video: https://youtu.be/dNhx2mX61gk
 * **Joaffzie**
 * **lidorz51**
 * **Yarin Edri**
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
